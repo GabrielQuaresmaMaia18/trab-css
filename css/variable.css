@@ -1,0 +1,21 @@
+:root {
+    font-size: 100%;
+    --standart-padding: 2rem;
+
+    /* fonts type*/
+    --title-font: 'Poppins', sans-serif;
+    --text-font: 'DM Sans', sans-serif;
+
+    /* fonts size */
+    --title-font-size: 3.0rem;
+    --text-font-size: 1.6rem;
+    /*colors*/
+    --base-color-one: rgb(44, 209, 44) ;
+    --base-color-two: rgb(240, 232, 232);
+    --base-color-three: rgb(6, 182, 6);
+    --base-color-four: rgb(14, 231, 14);
+    --text-color: black ; 
+    --title-color: black ;
+    ---background-color: white;
+
+}
